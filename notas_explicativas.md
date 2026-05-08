@@ -1,4 +1,4 @@
-## Notas Técnicas
+## Notas Explicativas
 
 * A API do IBGE foi consumida uma única vez e armazenada em memória para evitar múltiplas requisições.
 * Foi utilizado tratamento de normalização de texto com remoção de acentos e padronização para lowercase.
